@@ -1,0 +1,4 @@
+[submodule "paper"]
+	path = paper
+	url = https://github.com/christopherlovell/FlaresDistributionFunctions
+	branch = master
