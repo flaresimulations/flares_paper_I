@@ -89,8 +89,8 @@ for ax in [ax2]:#[ax5,ax6,ax2,ax3]:
 ax2.legend(frameon=False, loc=3);
 
 
-#plt.show()
-imgf='images/sfs_obs.png'
-print(imgf)
-fig.savefig(imgf, dpi=150, bbox_inches='tight')
+plt.show()
+# imgf='images/sfs_obs.png'
+# print(imgf)
+# fig.savefig(imgf, dpi=150, bbox_inches='tight')
 
